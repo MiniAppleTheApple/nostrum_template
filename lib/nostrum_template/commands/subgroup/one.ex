@@ -27,5 +27,4 @@ defmodule NostrumTemplate.Commands.Subgroup.One do
       }
     })
   end
-
 end
